@@ -1,6 +1,3 @@
-Original App Design Project - README Template
-===
-
 # Stutricous 
 
 ## Table of Contents
@@ -16,11 +13,11 @@ Stutricous is an app that can recommend meals based on your general health goals
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category: Health and Fitness and Social Networking
-- **Mobile: This app would be primarily created for a moblie applicaiton; however,
-- **Story: User creates a food emphasis and meals
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Mobile: This app would be primarily created for a moblie applicaiton; however, it could surely be ported onto a website version. Additionally, the application could be created on Andriod as well. 
+- **Story: User creates a food emphasis and meals are shown on their feed. Additionally, they can communicate with friends and other people on campus to discuss anything related to meals + health and fitness.  
+- **Market: The market could be anyone, but there is a general focus towards students who are currently on a college campus. 
+- **Habit: This app could be used everyday and as often as the user wants to. Health is important everyday, and this app can help with that. 
+- **Scope: First we want to see if we can pull together APIs and technologies to make this applicaiton work 
 
 ## Product Spec
 
@@ -41,6 +38,7 @@ Stutricous is an app that can recommend meals based on your general health goals
 * Share meal items between users/friends. 
 * Geo-features could be added to the application so that way meal grociery lists could be created and viewed at a grocery near you.
 * User should be able to change their diet emphasis. 
+* User should to see 
 
 ### 2. Screen Archetypes
 * Login Screen:
@@ -49,9 +47,9 @@ Stutricous is an app that can recommend meals based on your general health goals
    * User should be able to create an account 
    * User must be able to have a diet emphasis(i.e 'weight loss', 'vegeterian')
 * Stream:
-   * User should be able to see a list of recommended meals given their diet emphasis.
+   * User should be able to see a list of meals given their diet emphasis.
 * Recommended Next Meal Screen
-   * User should be able to see a "Recommended Next Meal" where the user can see their recommended meal depending on different variables (i.e "Current time of day", "Current ")
+   * User should be able to see a "Recommended Next Meal" where the user can see their recommended meal depending on different variables (i.e "Current time of day", "")
    * Geo-features could be added to the application and meal grociery lists could be created and viewed at a grocery near you or on campus.(Optional)
 * Detail:
    * User should be able to see a meal detail screen per meal item.
@@ -89,6 +87,9 @@ Stutricous is an app that can recommend meals based on your general health goals
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 ### [BONUS] Digital Wireframes & Mockups
 ### [BONUS] Interactive Prototype
+
+
+
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
